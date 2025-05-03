@@ -38,8 +38,4 @@ Edit
 ✅ Practical experience with Hugging Face and Gradio  
 ✅ Clean, modular code ready for production and further research
 
-## 👥 Ideal Use Case
-
-This project showcases your ability to take a machine learning model from concept to deployment — a crucial skill for **ML Engineer**, **Data Scientist**, or **AI Research Engineer** roles.
-
 ---
