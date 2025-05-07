@@ -1,5 +1,3 @@
-Welcome! This repository highlights a collection of practical projects showcasing my ability to design, build, and deploy intelligent systems. These projects span the full machine learning lifecycle — from data preprocessing to inference, optimization, and deployment — and are tailored to solve real-world problems using scalable, maintainable solutions.
-
 ## 🚀 What You'll Find Here
 
 - **End-to-End ML Pipelines**  
